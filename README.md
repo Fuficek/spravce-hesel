@@ -4,7 +4,7 @@ Malý program, správce hesel v pythonu na zlepšení známky ze ZAL
 ## Jak program spustit
 * Ve stejné složce se musí vyskytovat minimálně 3 soubory (znaky.txt, main.py a soubor s hesly, v mém případě hesla.txt)
 * Při spuštění se program zeptá uživatele jakou akci si přeje vykonat [z = zápis hesla, v = vyhledání hesla]
-* Na dostaz zadání souboru s hesly zadejte název souboru, který se vyskytuje na stejné adrese jako main.py (v mém případě hesla.txt)
+* Na dotaz zadání souboru s hesly zadejte název souboru, který se vyskytuje na stejné adrese jako main.py (v mém případě hesla.txt)
 * Dále postupujte podle údajů v output terminálu
 
 ## Proč jsem si vybral správce hesel?
